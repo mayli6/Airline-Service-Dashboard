@@ -1,6 +1,6 @@
 # Airline Service Dashboard
 
-This project involves an open source data retrieved from Kaggle. The dataset contains customers' feedbacks with regards to the services provided by Invistico Airlines. Using Tableau, customer satisfaction analysis for the airline company is performed.
+This project involves an open source data retrieved from Kaggle at https://www.kaggle.com/sjleshrac/airlines-customer-satisfaction. The dataset contains customers' feedbacks with regards to the services provided by Invistico Airlines. Using Tableau, customer satisfaction analysis for the airline company is performed.
 
 The overall customers' ratings are presented along with the breakdowns of ratings for in-flight and pre/post flight services.
 <img width="1440" alt="Screenshot 2022-08-16 at 11 28 28 AM" src="https://user-images.githubusercontent.com/108280631/184792440-5856a7ab-4dca-4cde-9ea7-01eb7a9e77cd.png">
